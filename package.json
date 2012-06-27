@@ -6,7 +6,7 @@
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
   , "dependencies": {
       "redis": ">=0.7.1"
-    , "express": "0.2.x"
+    , "express": "2.x"
     , "jade": ">=0.17.0"
     , "stylus": ""
     , "nib": "0.2.0"

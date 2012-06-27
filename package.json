@@ -5,9 +5,9 @@
   , "keywords": ["redis", "job", "queue", "worker", "redis"]
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
   , "dependencies": {
-      "redis": "0.7.1"
+      "redis": ">=0.7.1"
     , "express": ""
-    , "jade": "0.17.0"
+    , "jade": ">=0.17.0"
     , "stylus": ""
     , "nib": "0.2.0"
     , "reds": "https://github.com/myreci/reds/tarball/master"
